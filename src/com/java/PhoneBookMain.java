@@ -1,5 +1,4 @@
-package miniproject;
-
+package com.java;
 import java.util.*;
 
 public class PhoneBookMain {
